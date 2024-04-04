@@ -1,4 +1,6 @@
 // primitive or value types
+// String,Number,boolean,undefined,NULL,Symbol'
+//JS - Dynamic Language
 
 //string
 let x = "educosys"; //creating a variable and storing data in it
