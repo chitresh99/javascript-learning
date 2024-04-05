@@ -1,6 +1,8 @@
 // primitive or value types
 // String,Number,boolean,undefined,NULL,Symbol'
 //JS - Dynamic Language
+//In static languages we can't change the type and the values
+//In dynamic languages we can change both the type and value
 
 //string
 let x = "educosys"; //creating a variable and storing data in it
