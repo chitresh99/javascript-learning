@@ -12,6 +12,10 @@ console.log(x);//this will work
 createsong('wohraat');
 createsong('popular');
 
+
+// accessing a function before intializing them is called hoisting 
+
+
 //How javascript works
 
 //Execution context --> The environment where the code is evaluated executed is called execution context
