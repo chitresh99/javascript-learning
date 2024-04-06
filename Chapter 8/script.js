@@ -30,4 +30,14 @@ createsong('popular');
 //Second phase - code is executed line by line, this is called the code phase
 //javascript is synchronous single threaded language
 //code phase - thread of execution
-    
+
+console.log(a);
+
+var a = 10;
+
+console.log(a);
+console.log(this.a);
+console.log(window.a);//all these statements are referring to the global object
+
+console.log(window);
+console.log(this === window);//returns true so they are the same thing
